@@ -1,6 +1,7 @@
+"use client";
 import UploadButton from "@/components/UploadButton";
 import React from "react";
-
+import CalendlyEmbed from "../../components/CalendlyEmbed";
 const page = () => {
 	return (
 		<div className="min-h-screen flex flex-col justify-center items-center bg-gray-200">
