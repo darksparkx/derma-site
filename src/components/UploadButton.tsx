@@ -34,7 +34,9 @@ const UploadDropzone = () => {
 					}
 				);
 				setUploadProgress(70);
-				setData(await res.json());
+				setTimeout(async () => {
+					setData(await res.json());
+				}, 5000);
 
 				// const sum = getSummary(Data);
 				// console.log(await sum);
@@ -42,9 +44,9 @@ const UploadDropzone = () => {
 				window.alert(`An error occured, please try again ${error}`);
 			}
 		},
-		onUploadError: () => {
+		onUploadError: (error) => {
 			setIsUploading(false);
-			window.alert("An error occured, please try again");
+			window.alert(error);
 		},
 		onUploadBegin: () => {
 			setUploadProgress(10);
