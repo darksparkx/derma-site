@@ -17,7 +17,7 @@ const page = () => {
 						Ready to take the first step towards healthier skin?
 						Schedule a free immediate consultation by uploading a
 						picture. Our advanced AI technology will analyze your
-						skin and provide personalized recommendations. It's
+						skin and provide personalized recommendations. It&apos;s
 						quick, easy, and the first step to a more radiant you.
 					</p>
 

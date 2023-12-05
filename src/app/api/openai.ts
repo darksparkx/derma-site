@@ -2,7 +2,7 @@
 import OpenAI from "openai";
 
 const openai = new OpenAI({
-	apiKey: "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",
+	apiKey: "",
 });
 const prompt =
 	"Generate a comprehensive and personalized skin prescription about me based on the following skin analysis results: [Include relevant details about the analysis, such as skin type, specific concerns, and any identified characteristics]. Provide recommendations for skincare products, routines, and lifestyle adjustments to improve overall skin health. Consider factors like hydration, exfoliation, sun protection, and specific treatments for targeted concerns. Be detailed and tailored to the individual's unique skin needs." +

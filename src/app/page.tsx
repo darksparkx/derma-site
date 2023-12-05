@@ -47,29 +47,29 @@ export default function Home() {
 						approach goes beyond treating skin conditions; we focus
 						on understanding the unique needs of your skin and
 						curating tailored treatments that enhance your natural
-						beauty. Whether you're dealing with acne, aging
+						beauty. Whether you&apos;re dealing with acne, aging
 						concerns, or simply want to maintain a glowing
-						complexion, we've got you covered. What sets us apart is
-						our commitment to staying at the forefront of
+						complexion, we&apos;ve got you covered. What sets us
+						apart is our commitment to staying at the forefront of
 						dermatological advancements. Our practitioners
 						continually update their skills and knowledge to bring
 						you the latest and most effective skincare techniques.
 						We leverage state-of-the-art technology and
 						evidence-based practices to ensure optimal results. At
 						Derma Wellness Clinic, we understand that each
-						individual's skin is unique. That's why we prioritize
-						open communication and collaboration with our clients.
-						Your journey with us begins with a thorough
+						individual&apos;s skin is unique. That&apos;s why we
+						prioritize open communication and collaboration with our
+						clients. Your journey with us begins with a thorough
 						consultation, where we listen to your concerns, assess
-						your skin's needs, and develop a personalized treatment
-						plan. Beyond clinical expertise, we foster a warm and
-						welcoming environment. We want you to feel comfortable
-						and confident throughout your skincare journey. Our
-						dedicated staff is here to guide you, providing
-						education, support, and a touch of luxury in every
-						visit. Discover the joy of healthy, radiant skin with
-						Derma Wellness Clinic. Your skin deserves the best, and
-						we are here to deliver excellence in dermatological
+						your skin&apos;s needs, and develop a personalized
+						treatment plan. Beyond clinical expertise, we foster a
+						warm and welcoming environment. We want you to feel
+						comfortable and confident throughout your skincare
+						journey. Our dedicated staff is here to guide you,
+						providing education, support, and a touch of luxury in
+						every visit. Discover the joy of healthy, radiant skin
+						with Derma Wellness Clinic. Your skin deserves the best,
+						and we are here to deliver excellence in dermatological
 						care.
 					</p>
 				</div>
@@ -93,7 +93,7 @@ export default function Home() {
 							</h3>
 							<p className="text-gray-600">
 								Get expert advice and personalized treatment
-								plans tailored to your skin's needs.
+								plans tailored to your skin&apos;s needs.
 							</p>
 						</div>
 						{/* Repeat the above div for other services */}
@@ -128,7 +128,7 @@ export default function Home() {
 							<p className="text-gray-600 italic">
 								"The skincare regimen recommended by Derma
 								Wellness Clinic worked wonders for my sensitive
-								skin. I've never felt more confident!"
+								skin. I&apos;ve never felt more confident!"
 							</p>
 							<p className="text-gray-800 font-semibold mt-2">
 								- Alex M.
@@ -138,10 +138,10 @@ export default function Home() {
 						{/* Another Testimonial Card */}
 						<div className="bg-white p-6 rounded-lg shadow-md">
 							<p className="text-gray-600 italic">
-								"I can't thank the team at Derma Wellness Clinic
-								enough. Their attention to detail and genuine
-								care made my dermatology experience exceptional.
-								My skin has never looked better!"
+								"I can&apos;t thank the team at Derma Wellness
+								Clinic enough. Their attention to detail and
+								genuine care made my dermatology experience
+								exceptional. My skin has never looked better!"
 							</p>
 							<p className="text-gray-800 font-semibold mt-2">
 								- Jessica R.

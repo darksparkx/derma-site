@@ -34,6 +34,7 @@ const UploadDropzone = () => {
 					}
 				);
 				setUploadProgress(70);
+
 				setTimeout(async () => {
 					setData(await res.json());
 				}, 5000);
